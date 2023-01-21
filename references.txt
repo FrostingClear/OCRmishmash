@@ -1,0 +1,61 @@
+OCR portions
+
+I used a lot of code from these links as is 
+
+https://builtin.com/data-science/python-ocr
+https://nanonets.com/blog/ocr-with-tesseract/
+https://www.topcoder.com/thrive/articles/python-for-character-recognition-tesseract
+https://pyimagesearch.com/2020/08/24/ocr-handwriting-recognition-with-opencv-keras-and-tensorflow/
+
+
+Spell Checking
+
+https://pyenchant.github.io/pyenchant/install.html
+https://www.geeksforgeeks.org/python-spelling-checker-using-enchant/?ref=lbp
+https://www.cnbc.com/2021/05/07/most-commonly-misspelled-words-that-make-you-look-less-smart-according-to-grammar-experts.html
+
+
+
+tkinter
+
+https://stackoverflow.com/questions/5459444/tkinter-python-may-not-be-configured-for-tk
+https://www.youtube.com/watch?v=q8WDvrjPt0M Python GUI open a file (filedialog)
+https://pythonguides.com/python-tkinter-title/
+https://www.geeksforgeeks.org/how-to-pass-arguments-to-tkinter-button-command/
+https://www.tutorialspoint.com/how-to-change-tkinter-label-text-on-button-press
+https://www.tutorialspoint.com/how-to-clear-the-contents-of-a-tkinter-text-widget
+https://www.tutorialspoint.com/python/tk_text.htm
+https://www.geeksforgeeks.org/python-string-length-len/
+https://www.tutorialspoint.com/how-to-get-the-input-from-the-tkinter-text-widget
+https://www.plus2net.com/python/tkinter-grid.php
+https://www.geeksforgeeks.org/python-tkinter-messagebox-widget/
+
+OpenCV
+
+https://pypi.org/project/opencv-python/
+https://stackoverflow.com/questions/69692145/how-to-close-window-using-the-x-button-in-opencv
+
+
+Other general python concepts
+
+https://www.w3schools.com/python/python_dictionaries.asp
+https://geekflare.com/python-remove-last-character/
+https://www.knowprogram.com/python/python-get-the-last-character-string/
+https://www.w3schools.com/python/ref_string_isnumeric.asp
+https://www.programiz.com/python-programming/break-continue
+https://thehelloworldprogram.com/python/python-string-methods/
+https://www.w3schools.com/python/ref_string_isalpha.asp
+
+
+Wolfram Alpha api
+https://www.geeksforgeeks.org/python-create-a-simple-assistant-using-wolfram-alpha-api/
+
+
+
+Cryptography 
+
+Again, I used a lot of the code from these links as is, with some minor modifications to better suit my needs
+
+https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_caesar_cipher.htm
+https://www.scaler.com/topics/caesar-cipher-python/
+https://cryptii.com/pipes/caesar-cipher
