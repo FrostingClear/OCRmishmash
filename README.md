@@ -2,7 +2,7 @@
 
 This is a program I wrote for a "do your own thing" class assignment over ~3 days. 
 
-I took that chance to work with Python (a language I am still learning) and chose to work with third party libraries that could do things that I would not otherwise be able to practically do myself (e.g. OCR). This was also my first experience building a GUI in a Python program with the use of Tkinter.
+I took that chance to work with Python (a language I am still learning) and chose to work with third party libraries that I found interesting (e.g. OCR). This was also my first experience building a GUI in a Python program with the use of Tkinter.
 
 Key technologies/libraries were OCR (Optical Character Recognition) with the help of Tesseract/PyTesseract, a spell-checking library with the help of Enchant/PyEnchant and integration with WolframAlpha to answer questions.
 
