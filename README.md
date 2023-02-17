@@ -16,9 +16,12 @@ The folder "Functionality Screenshots" will give you an idea of what the running
 How to run:
 - You will need to install the necessary libraries like tesseract/pytesseract, enchant/pyenchant, wolframalpha
 - Program should be started from main.py
-
+- I've supplied a few test images in a folder
 
 NOTE about wolfram alpha:
 - As this is a public repository I have removed the wolfram alpha appID, so do not expect it to function.
 - You are welcome to make your own AppID through wolfram alpha and adjust the code in wolfram.py
 
+OTHER LIMITATIONS:
+
+Admittedly the OCR consistency and read quality has a lot of room for improvement, so for demonstration purposes right now I suggest you stick with those test images, just to see how the program is intended to function. 
